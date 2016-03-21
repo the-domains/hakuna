@@ -1,0 +1,28 @@
+name: hakuna
+favicon: null
+layout_spectrum: 0.2919970403891057
+typography_spectrum: 0.7110751233994961
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7594940881244838
+  lightness: 0.8177545869257301
+  saturation: 0.22383631602860987
+  rhythmicContrast: 0.9011021871119738
+purpose: []
