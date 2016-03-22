@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[hakuna]]></title>
         <description><![CDATA[hakuna]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hakuna/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 21:07:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 02:30:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hakuna/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Hello. We're Hakuna.]]></title>
-            <description><![CDATA[<article><h1>Hello. We're Hakuna.</h1><p>We are a small passion driven studio, obsessed with creating inspiring design and beautiful digital experiences.</p></article>]]></description>
-            <link>undefinedwe-are-a-small-passion-driven-studio-obsessed-with-creating/index.html</link>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><h1></h1><p>We are a small passion driven studio, obsessed with creating inspiring design and beautiful digital experiences.</p></article>]]></description>
+            <link>https://thegrid.ai/hakuna/we-are-a-small-passion-driven-studio-obsessed-with-creating/index.html</link>
             <guid isPermaLink="false">49dd4b12-570a-4216-962d-a75d5be80855</guid>
-            <pubDate>Mon, 21 Mar 2016 21:06:10 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 02:30:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
